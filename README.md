@@ -5,6 +5,7 @@
 ## 使用的轮子
 
 ```js
+var request = require('request');
 var toMarkdown = require('to-markdown');
 var cheerio = require('cheerio');
 var Promise = require('bluebird')
