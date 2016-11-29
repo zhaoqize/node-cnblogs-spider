@@ -1,0 +1,42 @@
+{
+  "name": "node-cnblogs-spider",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "to-markdown": "^3.0.3"
+  },
+  "_id": "node-cnblogs-spider@1.0.0",
+  "_shasum": "4d6da1e8631bbfe3dea34d73a61b86a8141b6b68",
+  "_from": "node-cnblogs-spider@1.1.1",
+  "_npmVersion": "2.15.1",
+  "_nodeVersion": "4.4.4",
+  "_npmUser": {
+    "name": "zhaoqize",
+    "email": "ko2338792975@163.com"
+  },
+  "dist": {
+    "shasum": "4d6da1e8631bbfe3dea34d73a61b86a8141b6b68",
+    "tarball": "https://registry.npmjs.org/node-cnblogs-spider/-/node-cnblogs-spider-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "zhaoqize",
+      "email": "ko2338792975@163.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/node-cnblogs-spider-1.0.0.tgz_1480340817478_0.6845899398904294"
+  },
+  "directories": {},
+  "_resolved": "http://registry.npm.taobao.org/node-cnblogs-spider/download/node-cnblogs-spider-1.1.1.tgz"
+}
