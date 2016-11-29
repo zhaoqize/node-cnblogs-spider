@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/zhaoqize/NodeJs-Spiders-cnblogs.svg?branch=master)](https://travis-ci.org/zhaoqize/NodeJs-Spiders-cnblogs)
+
 ## spider_cnblogs
 用来爬取博客园的文章
 并将文章转成.md存储至本地
