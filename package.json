@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo ok"
   },
-  "author": "",
+  "author": "zhaoqize",
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.4.6",
@@ -14,14 +14,11 @@
     "request": "^2.79.0",
     "to-markdown": "^3.0.3"
   },
-  "_id": "node-cnblogs-spider@1.0.0",
-  "_shasum": "4d6da1e8631bbfe3dea34d73a61b86a8141b6b68",
-  "_from": "node-cnblogs-spider@1.1.1",
-  "_npmVersion": "2.15.1",
-  "_nodeVersion": "4.4.4",
-  "_npmUser": {
-    "name": "zhaoqize",
-    "email": "ko2338792975@163.com"
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.2.0",
+    "rewire": "^2.5.2"
   },
   "dist": {
     "shasum": "4d6da1e8631bbfe3dea34d73a61b86a8141b6b68",
@@ -32,11 +29,5 @@
       "name": "zhaoqize",
       "email": "ko2338792975@163.com"
     }
-  ],
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/node-cnblogs-spider-1.0.0.tgz_1480340817478_0.6845899398904294"
-  },
-  "directories": {},
-  "_resolved": "http://registry.npm.taobao.org/node-cnblogs-spider/download/node-cnblogs-spider-1.1.1.tgz"
+  ]
 }
