@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/zhaoqize/NodeJs-Spiders-cnblogs.svg?branch=master)](https://travis-ci.org/zhaoqize/NodeJs-Spiders-cnblogs)
+[![Build Status](https://travis-ci.org/zhaoqize/node-cnblogs-spider.svg?branch=master)](https://travis-ci.org/zhaoqize/node-cnblogs-spider)
 
 ## spider_cnblogs
 用来爬取博客园的文章
