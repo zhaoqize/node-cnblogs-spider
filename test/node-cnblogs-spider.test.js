@@ -13,7 +13,6 @@ describe('node-cnblogs-spider',function(){
   requestPromise('http://www.cnblogs.com/zqzjs/default.html?page=1')
 	.then(function(result){
     	expect(result).to.be.not.equal(null);
-	  	done();
 	})
     .catch(function(err){
          done(err);
