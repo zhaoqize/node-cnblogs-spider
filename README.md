@@ -1,4 +1,7 @@
 [![Build Status](https://travis-ci.org/zhaoqize/node-cnblogs-spider.svg?branch=master)](https://travis-ci.org/zhaoqize/node-cnblogs-spider)
+[![GitHub license](https://img.shields.io/github/license/zhaoqize/weex-cnode.svg)](https://github.com/zhaoqize/weex-cnode/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
+[![Travis](https://img.shields.io/badge/oschina-%E6%94%B6%E5%BD%95-orange.svg)](https://www.oschina.net/search?scope=project&q=weex-cnode)
 
 [![NPM](https://nodei.co/npm/node-cnblogs-spider.png?downloads=true)](https://nodei.co/npm/node-cnblogs-spider/)
 
