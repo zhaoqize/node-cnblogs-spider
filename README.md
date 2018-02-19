@@ -8,17 +8,22 @@
 ## spider_cnblogs
 spider_cnblogs 是专门爬取博客园的文章并自动将文章转成 `.md` 存储至本地的爬虫。
 
-
-## 示例
-![image](http://images.cnblogs.com/cnblogs_com/zqzjs/885846/o_2016-11-27_171319.png)
+## 安装
+```js
+npm install node-cnblogs-spider --save
+```
 
 ## 使用
 ```js
-var request = require('request');
-var toMarkdown = require('to-markdown');
-var cheerio = require('cheerio');
-var Promise = require('bluebird')
+var ncs = require('node-cnblogs-spider')
+ncs([
+    http://xxxx, 
+    http://xxxx 
+])
 ```
+
+## 示例
+![image](http://images.cnblogs.com/cnblogs_com/zqzjs/885846/o_2016-11-27_171319.png)
 
 ## 依赖
 [to-markdown]() 将`html`转`md`
